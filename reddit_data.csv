@@ -1,0 +1,7 @@
+tool_name,platform,metric_name,metric_value
+LangChain,Reddit,mentions,299
+AutoGPT,Reddit,mentions,419
+LlamaIndex,Reddit,mentions,471
+CrewAI,Reddit,mentions,346
+Haystack,Reddit,mentions,277
+OpenDevin,Reddit,mentions,67
